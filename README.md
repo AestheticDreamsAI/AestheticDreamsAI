@@ -56,7 +56,7 @@ Want AI that doesn’t suck? Send me:
 ---
 
 ### ⚡ The Origin Story  
-Built my first AI prototype at 17 – a simple pattern recognition system that could barely work. It was crude, but it sparked something. 20+ years later, that curiosity never stopped.  
+Built my first AI prototype as a kid – a simple pattern recognition system that could barely work. It was crude, but it sparked something. 20+ years later, that curiosity never stopped.  
 
 Had to fight through kidney transplants, hip surgeries, strokes, and everyone telling me what I'd never achieve. Taught myself everything – programming, AI, web design. No degrees, no bootcamps, just raw determination and a "screw you, I'll prove it" attitude. Turned pain into power, because giving up ain't an option.  
 
