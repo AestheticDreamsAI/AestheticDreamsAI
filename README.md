@@ -1,24 +1,52 @@
-# 👋 Hey, I'm Phil Frei!
+# 👋 Hey, I'm Phil Frei  
 
-## 💻 Tech Geek | 🚀 Innovator | 🤖 A.I. Enthusiast
-
----
-
-### 👀 About Me
-I'm a passionate programmer and designer who loves pushing the boundaries of technology. Whether it's software development or artificial intelligence, I'm always on the lookout for innovative solutions.
-
-### 🌱 Currently Learning
-I'm diving deep into advanced machine learning algorithms and exploring how to integrate them into practical applications. The possibilities are endless!
-
-### 💖 Collaboration
-I'm always on the hunt for exciting projects in A.I., software development, and open-source. If you have something that can change the world, let's team up and create something amazing!
-
-### 📬 Get in Touch
-Got an idea or a project I can contribute to? Drop me an email at [contact@aestheticdreams.net](mailto:contact@aestheticdreams.net) and let's chat.
-
-### ⚡ Fun Fact
-I created my first A.I. 20 years ago as a child, way before OpenAI did. The passion for technology has been with me ever since!
+## 💻 Developer | 🚀 Builder | 🤖 AI & Open-Source Enthusiast  
 
 ---
 
-Let's build the future together! 🚀
+### 👀 About Me  
+I’m a developer & designer who loves turning bold ideas into working software. My passion lies in **AI, open-source tools, and creative user experiences**. I believe in building tech that is **useful, elegant, and privacy-friendly**.  
+
+---
+
+### 🔭 Featured Project  
+- [**GoogolPlex (gplex.dev)**](https://gplex.dev) – An open-source iOS voice assistant framework that runs locally, extensible with Python plugins, designed with privacy and flexibility in mind.  
+
+---
+
+### 🌱 Currently Exploring  
+- Advanced machine learning & real-world integrations  
+- Local-first software & privacy-preserving architectures  
+- Creative UI/UX patterns that make tech feel natural  
+
+---
+
+### 💖 Collaboration  
+Always open to collaborating on **AI, open-source, and experimental projects**.  
+If you’re building something ambitious (or just weird & fun), I’d love to hear about it.  
+
+---
+
+### 📬 Get in Touch  
+📧 [contact@aestheticdreams.net](mailto:contact@aestheticdreams.net)  
+💻 [GitHub Profile](https://github.com/PhilFrei)  
+
+---
+
+### ⚡ Fun Fact  
+I built my very first AI prototype over 20 years ago as a kid — before I even knew the term *machine learning*. The curiosity never stopped.  
+
+---
+
+🚀 Let’s build tools that matter — and have fun while doing it.  
+
+---
+
+### 🛠️ Tech Stack  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-)
