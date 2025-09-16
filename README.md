@@ -1,105 +1,79 @@
-# Phil Frei — Solo Builder
-
-Function Over Form • Independent • Solo Builder
-
-## Build Stuff That Works
-37. Wheelchair. Direct approach.  
-I create solutions that actually work — my way, my standards.  
-No committees. No excuses.
-
-[Projects](#projects) • [How I Work](#how-i-work) • [Contact](#contact)
+# 👋 Phil Frei  
+## 37, wheelchair. Independent builder. I create AI that works – local, private, patch-proof.  
 
 ---
 
-## What I Do
-- Coding AI since **2012**.  
-- Local-first. Private. Patch-resistant.  
-- Results > politics.  
-- Function > form.
+### 🔥 The Approach  
+Not the usual developer story. Started coding AI in 2012 – before it was trendy, before “AI experts” were everywhere. While others talked, I built.  
 
-Tech: **C#, Python, JavaScript** • **ML.NET, Ollama, local LLMs** • **Piper TTS** • **iOS Shortcuts** • **Home Assistant**
+**What I stand for:**  
+- Independence first.  
+- Privacy-first AI, always local.  
+- Systems that survive updates.  
+- Function over form.  
 
----
-
-## Projects
-- **[GoogolPlex 2025](https://github.com/AestheticDreamsAI/googolplex-2025)**  
-  Patch-resistant Siri plugin framework for iOS. 100% local. Survives updates.
-
-- **[LAMBot-AI](https://github.com/AestheticDreamsAI/LAMBot-AI)**  
-  Language Action Model in C# + ML.NET. Sub-200ms intents, >95% automation.
-
-- **[Cherry-Lite](https://github.com/AestheticDreamsAI/Cherry-Lite)**  
-  Offline AI client on top of LAMBot. Zero cloud. Full control.
-
-- **[PiperLing](https://github.com/AestheticDreamsAI/PiperLing)**  
-  Real-time speech translation & synthesis. No API keys. No limits.
-
-- **[PiperLingWebApp](https://github.com/AestheticDreamsAI/PiperLingWebApp)**  
-  Lightweight web UI for PiperLing. Desktop & mobile.
-
-- **[Alessia Seelentanz](https://alessia-seelentanz.de/)**  
-  Automated persona with memory and voice.  
-  [Instagram](https://www.instagram.com/alessiaseelentanz/)
+No hype. No noise. Just solutions that work.  
 
 ---
 
-## Real Solutions
-Stuff that works — no committee process, just results.
+### 🚀 Current Projects  
 
-## How I Work
-**Solo Delivery**  
-I handle architecture, build, and handover.  
-One person. Full responsibility.
+**[GoogolPlex 2025](https://github.com/AestheticDreamsAI/googolplex-2025)** – Patch-proof, local Siri plugin framework for iOS. Inspired by the original GoogolPlex hack, but modern, extensible, privacy-first. Outcome: iOS control that can’t be patched away.  
 
-**Independent Infrastructure**  
-My tools, my servers, my process.  
-Your project doesn’t depend on corporate policies.
+**[Alessia Seelentanz](https://alessia-seelentanz.de/)** – Automated AI persona with real voice, long-term memory, and personality. Creates and evolves on her own. [Instagram: @alessiaseelentanz](https://www.instagram.com/alessiaseelentanz/).  
 
-**Direct Communication**  
-Async. Clear. No status-meeting circus.  
-Updates only when they matter.
+**[LAMBot-AI](https://github.com/AestheticDreamsAI/LAMBot-AI)** – C# + ML.NET Language Action Model. Sub-200ms intent recognition and automation. Outcome: fast, reliable app and system control.  
 
-**Action Over Analysis**  
-Build, test, iterate, deliver.  
-No analysis paralysis.
+**[Cherry-Lite](https://github.com/AestheticDreamsAI/Cherry-Lite)** – Offline AI assistant based on LAMBot. Outcome: private AI that runs without the cloud.  
 
-**Project-Based Pricing**  
-Scope • timeline • price — agreed upfront.  
-Predictable costs. Guaranteed delivery.
+**[PiperLing](https://github.com/AestheticDreamsAI/PiperLing)** – Interpreter AI with Piper TTS + Ollama. Real-time speech translation without external APIs.  
 
-**Full Ownership**  
-All code, docs, and assets are yours.  
-No lock-in. Your control.
-
-**Best Fit**  
-- Decision makers who value results over process  
-- Teams ready to move fast  
-- Projects needing independent, reliable solutions  
-- Businesses that know quality has a price
-
-**Not a fit if** you need committees, “enterprise beautiful,” constant validation, or cheap everything.
+**[PiperLingWebApp](https://github.com/AestheticDreamsAI/PiperLingWebApp)** – Web interface for PiperLing. Lightweight, mobile-ready.  
 
 ---
 
-## Stories (why I build this way)
-- Function beats bureaucracy.  
-- When official channels don’t work, you make your own.  
-- I code like my freedom depends on it — because it does.
+### 💡 Focus  
+- Local-first AI.  
+- Voice systems that never call home.  
+- Automation that evolves, not spam.  
+- Tools designed to last.  
 
 ---
 
-## Contact
-Send me:
+### 🤝 Collaboration  
+Interested in ambitious, independent projects.  
+Not interested in micromanagement, hourly billing, or “cheap and fast.”  
+
+When reaching out, include:  
 - Problem & goal (2–3 sentences)  
 - Context & constraints  
-- Budget range & timeline  
-- Are you the decision maker? (Yes/No)
+- Budget & timeline  
+- Decision-maker: yes/no  
 
-📧 **contact@aestheticdreams.net**  
-🔗 **GitHub:** [AestheticDreamsAI](https://github.com/AestheticDreamsAI)
+📧 [contact@aestheticdreams.net](mailto:contact@aestheticdreams.net)  
 
 ---
 
-**Independence isn’t ideology — it’s practical.**  
-Less dependencies = fewer failures.  
-**Build stuff that works.**
+### ⚡ Story  
+Built my first AI in 2012. Crude, but it worked.  
+Since then: surgeries, transplants, strokes. Reasons to stop – but I didn’t.  
+
+No degree. No shortcuts. Just persistence and building.  
+
+> **“Nobody believed in me – but I did.”**  
+
+---
+
+### 🛠️ Tech I Use  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)  
+![ML.NET](https://img.shields.io/badge/ML.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)  
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)  
+![Local AI](https://img.shields.io/badge/Local%20AI-FF6B35?style=for-the-badge&logo=ai&logoColor=white)  
+
+---
+
+🚀 **Building tools that last. Independent. Practical. No bullshit.**
